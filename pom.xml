@@ -2,8 +2,8 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.comcast-test-app</groupId>
-  <artifactId>comcast-test-app</artifactId>
+  <groupId>com.helloworld-app</groupId>
+  <artifactId>helloworld-app</artifactId>
   <version>1.0</version>
 
   <build>
